@@ -15,11 +15,6 @@
 💡 **Domaines d’intérêt** :  
 📊 Finance | 🤖 Technologie | 🎵 Musique | ⚽ Sport | 💡 Innovation | 📈 Consulting  
 
-
-🔎 **À la recherche d’un stage opérateur à partir de Juillet 2025**  
-
-📩 **Contactez-moi pour toute opportunité !** 🚀  
-
 ---
 
 ## 🎓 Formation  
