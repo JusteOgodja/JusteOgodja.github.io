@@ -1,23 +1,43 @@
 # 👋 Juste OGODJA  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=600&lines=Bienvenue+sur+mon+profil+!;Élève-ingénieur+passionné+par+la+finance+quantitative)](https://git.io/typing-svg)  
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+  .typing {
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #F70000;
+    width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    border-right: 2px solid;
+    animation: typing 3s steps(40) forwards, blink 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink {
+    50% { border-color: transparent }
+  }
+</style>
+
+<p class="typing">Bienvenue sur mon profil !</p>
 
 📍 **Bouskoura, Maroc**  
 📧 [oladejusteluc.ogodja2@centrale-casablanca.ma](mailto:oladejusteluc.ogodja2@centrale-casablanca.ma)  
-📞 **+212 641792441**  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600">
-</p>
+📞 **+212(0)641792441**  
 
 ---
 
 ## 🎯 À propos de moi  
 
 🎓 **Élève-ingénieur à l'École Centrale Casablanca**  
-📊 Passionné par la **finance quantitative, l'innovation et la technologie**  
+📊 Passionné par la **finance, l'innovation et la technologie**  
 📈 Enthousiaste pour les **mathématiques appliquées et la programmation**  
 
 💡 **Domaines d’intérêt** :  
@@ -25,13 +45,20 @@
 
 ---
 
-## 📚 Formation  
+## 🎓 Formation  
 
-- 🎓 **École Centrale Casablanca** *(Sept. 2024 - Présent)*  
-  *Cycle Ingénieur Généraliste*  
-- 📊 **Master 1 en Statistiques et Probabilités** *(Oct. 2023 - Juil. 2024)*  
-- 📖 **Licence en Mathématiques** *(Oct. 2022 - Juil. 2023)*  
-- 📚 **Classes Préparatoires Aux Grandes Écoles** *(Janv. 2021 - Juin 2022)*  
+🚀 **Cycle Ingénieur Généraliste** *(Sept. 2024 - Présent)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 *École Centrale Casablanca*  
+
+📊 **Master 1 en Statistiques et Probabilités** *(Oct. 2023 - Juil. 2024)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 *Institut de Mathématiques et de Sciences Physiques (IMSP)*  
+
+📖 **Licence en Mathématiques** *(Oct. 2022 - Juil. 2023)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 *Institut de Mathématiques et de Sciences Physiques (IMSP)*  
+
+📚 **Classes Préparatoires Aux Grandes Écoles** *(Janv. 2021 - Juin 2022)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 *Institut de Mathématiques et de Sciences Physiques (IMSP)*  
+ 2022)*  
 
 ---
 
@@ -58,41 +85,22 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)  
 
----
-
-## 📜 Certifications  
-
-- 📊 **Machine Learning** - Coursera *(2024)*  
-- 📈 **Finance Quantitative** - edX *(2023)*  
-- 🎓 **Python pour l’Analyse de Données** - DataCamp *(2023)*  
 
 ---
 
 ## 🌍 Langues  
 
-- 🇫🇷 Français *(100%)*  
-- 🇬🇧 Anglais *(85%)*  
-- 🇧🇯 Idatcha *(60%)*  
+- Français : ⭐⭐⭐⭐⭐  
+- Anglais : ⭐⭐⭐ 
+ 
 
 ---
 
-## 📈 Statistiques GitHub  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-profil&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-profil&theme=radical" />
-</p>
-
-[![GitHub Skyline](https://skyline.github.com/ton-profil/2023.png)](https://skyline.github.com/ton-profil)  
-
----
 
 ## 📢 Pourquoi me choisir ?  
 
-✔️ **Passionné par l’innovation et la finance quantitative**  
+✔️ **Passionné par la Data Science et la finance**  
 ✔️ **Excellentes compétences en mathématiques et en analyse de données**  
 ✔️ **Résolution de problèmes complexes avec une approche analytique**  
 ✔️ **Esprit d'équipe et leadership**  
@@ -102,10 +110,13 @@
 ## 🌍 Me contacter  
 
 📧 [Email](mailto:oladejusteluc.ogodja2@centrale-casablanca.ma)  
-💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ton-profil)  
-📁 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ton-profil)  
+💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juste-ogodja/)  
+📁 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JusteOgodja)  
 
 ---
 
 🔎 **À la recherche d’un stage opérateur à partir de Juillet 2025**  
 📩 **Contactez-moi pour toute opportunité !** 🚀  
+
+---
+_© 2025 Juste OGODJA - Portfolio_
