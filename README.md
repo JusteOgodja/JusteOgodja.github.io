@@ -64,17 +64,21 @@
 
 ## 🚀 Projets  
 
-### 📌 **Algorithme d’Euclide et de Bézout avec Initiation au Chiffrement** *(Juillet 2023)*  
-📜 Étude et application des algorithmes d’Euclide et de Bézout en cryptographie.  
-🔗 **Lien GitHub** : [Projet Euclide & Bézout](https://github.com/ton-profil/euclide-bezout)  
-
-### 📌 **Value at Risk** *(Juillet 2024)*  
-📊 Analyse et estimation des risques financiers via Monte-Carlo, covariance-variance, etc.  
-🔗 **Lien GitHub** : [Projet Value at Risk](https://github.com/ton-profil/value-at-risk)  
+### 📌 **Classification de l’Obésité avec l’IA** *(Mars 2025)*  
+📜 Conception d’une interface de classification de l’obésité basée sur l’intelligence artificielle. Implémentation de modèles avancés de machine learning pour analyser les habitudes alimentaires et l’activité physique, avec une interface interactive développée sous Django et une explicabilité des prédictions via SHAP.  
+🔗 **Lien GitHub** : [Projet Classification IA](https://github.com/JusteOgodja/Coding_week/tree/main)  
 
 ### 📌 **Électronique et Robotique** *(Janvier 2025)*  
-🤖 Conception d’un robot autonome pour un entrepôt intelligent.  
-🔗 **Lien GitHub** : [Projet Robotique](https://github.com/ton-profil/robotique-warehouse)  
+🤖 Développement d’un robot autonome pour un entrepôt intelligent : suivi de ligne, détection d’obstacles et manipulation d’objets.  
+🔗 **Lien GitHub** : [Projet Robotique](https://github.com/JusteOgodja/Electronique-et-Robotique)  
+
+### 📌 **Value at Risk** *(Juillet 2024)*  
+📊 Analyse approfondie des méthodes d'estimation de la VaR (historique, covariance-variance, simulation Monte-Carlo) pour l'évaluation et la gestion des risques financiers dans les portefeuilles d'investissement.  
+🔗 **Lien GitHub** : [Projet Value at Risk](https://github.com/JusteOgodja/My-Projects)  
+
+### 📌 **Algorithmes d’Euclide et de Bézout & Applications au Chiffrement** *(Juillet 2023)*  
+📜 Étude et présentation des algorithmes d’Euclide et de Bézout, avec une exploration de leurs applications en cryptographie.  
+🔗 **Lien GitHub** : [Projet Euclide & Bézout](https://github.com/JusteOgodja/My-Projects)  
 
 ---
 
