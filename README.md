@@ -1,34 +1,6 @@
-# 👋 Juste OGODJA  
+# Bienvenue sur mon profil !
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
-
-  .typing {
-    font-family: "Montserrat", sans-serif;
-    font-size: 22px;
-    font-weight: 600;
-    color: #F70000;
-    width: 0;
-    white-space: nowrap;
-    overflow: hidden;
-    display: inline-block;
-    border-right: 2px solid;
-    animation: typing 3s steps(40) forwards, blink 0.75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink {
-    50% { border-color: transparent }
-  }
-</style>
-
-<p class="typing">Bienvenue sur mon profil !</p>
-
-📍 **Bouskoura, Maroc**  
+📍 **Casablanca, Maroc**  
 📧 [oladejusteluc.ogodja2@centrale-casablanca.ma](mailto:oladejusteluc.ogodja2@centrale-casablanca.ma)  
 📞 **+212(0)641792441**  
 
@@ -42,6 +14,11 @@
 
 💡 **Domaines d’intérêt** :  
 📊 Finance | 🤖 Technologie | 🎵 Musique | ⚽ Sport | 💡 Innovation | 📈 Consulting  
+
+
+🔎 **À la recherche d’un stage opérateur à partir de Juillet 2025**  
+
+📩 **Contactez-moi pour toute opportunité !** 🚀  
 
 ---
 
@@ -116,11 +93,6 @@
 📧 [Email](mailto:oladejusteluc.ogodja2@centrale-casablanca.ma)  
 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juste-ogodja/)  
 📁 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JusteOgodja)  
-
----
-
-🔎 **À la recherche d’un stage opérateur à partir de Juillet 2025**  
-📩 **Contactez-moi pour toute opportunité !** 🚀  
 
 ---
 _© 2025 Juste OGODJA - Portfolio_
